@@ -28,6 +28,7 @@
 #header-title {
   display: block;
   float: left;
+  margin-left: 40px;
 
   font-size: 20px;
   font-weight: bold;
@@ -37,6 +38,7 @@
   display: block;
   float: right;
   margin-top: 0;
+  margin-right: 40px;
 }
 
 #header-nav li {
@@ -68,6 +70,7 @@
   min-width: 300px;
   display: inline-block;
   vertical-align: top;
+  margin-left: 40px;
 }
 
 a {
